@@ -1,2 +1,5 @@
 # MLSA-project
-A mini website built with Wikipedia API
+A mini website built using Wikipedia API
+
+**Live:**
+https://64987a2f7a500b2b7429be46--jolly-brioche-099fe2.netlify.app/
